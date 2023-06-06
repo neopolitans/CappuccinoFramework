@@ -1,0 +1,5 @@
+The scripts in this folder are specific to the Visual Scripting & Graph Window.
+These require the release of USS Object Model specific to Cappuccino Editor Framework, not the one on GitHub.
+
+The reason to have a folder specific to USSOM scripts is so that it's easier to find and modify specific styles for sheets in C#.
+If you prefer directly modifying the Unity Style Sheets see: GraphWindow > Style Sheets > Generic Fields

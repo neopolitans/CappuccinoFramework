@@ -1,0 +1,84 @@
+.cappuccino-graph__toolbar-container {
+     min-height: 30px;
+     height: 30px;
+     background-color: rgba(0, 0, 0, 0.5490196);
+     border-bottom-color: rgba(52, 52, 52, 0.7529413);
+     border-left-color: rgba(52, 52, 52, 0.7529413);
+     border-top-color: rgba(52, 52, 52, 0.7529413);
+     border-right-color: rgba(52, 52, 52, 0.7529413);
+     border-bottom-width: 1px;
+     border-left-width: 1px;
+     border-top-width: 1px;
+     border-right-width: 1px;
+     border-bottom-left-radius: 5px;
+     border-top-left-radius: 5px;
+     border-bottom-right-radius: 5px;
+     border-top-right-radius: 5px;
+     margin-top: 4px;
+     margin-left: 4px;
+     margin-right: 4px;
+     flex-direction: row;
+}
+
+.cappuccino-graph__toolbar__divider {
+     background-color: rgba(255, 255, 255, 0.1254902);
+     min-height: 17px;
+     height: 17px;
+     max-height: 17px;
+     width: 0.67px;
+     margin-left: 6px;
+     margin-right: 5px;
+     margin-top: 5px;
+}
+
+.cappuccino-graph__toolbar__button {
+     background-color: rgba(255, 255, 255, 0);
+     border-bottom-color: rgba(0, 0, 0, 0);
+     border-top-color: rgba(0, 0, 0, 0);
+     border-left-color: rgba(0, 0, 0, 0);
+     border-right-color: rgba(0, 0, 0, 0);
+     border-bottom-left-radius: 3px;
+     border-top-left-radius: 3px;
+     border-bottom-right-radius: 3px;
+     border-top-right-radius: 3px;
+     padding-left: 4px;
+     padding-right: 4px;
+     margin-left: 1px;
+     margin-right: 0px;
+     margin-top: 1px;
+     color: rgba(255, 255, 255, 0.2509804);
+     -unity-font-style: bold;
+     -unity-text-align: middle-left;
+}
+
+.cappuccino-graph__toolbar__button:hover {
+     background-color: rgba(255, 255, 255, 0.03921569);
+     border-bottom-color: rgba(0, 0, 0, 0);
+     border-top-color: rgba(0, 0, 0, 0);
+     border-left-color: rgba(0, 0, 0, 0);
+     border-right-color: rgba(0, 0, 0, 0);
+     color: rgba(255, 255, 255, 0.5019608);
+}
+
+.cappuccino-graph__toolbar__button:hover:active {
+     background-color: rgba(255, 255, 255, 0.1176471);
+     border-bottom-color: rgba(0, 0, 0, 0);
+     border-top-color: rgba(0, 0, 0, 0);
+     border-left-color: rgba(0, 0, 0, 0);
+     border-right-color: rgba(0, 0, 0, 0);
+     color: rgba(255, 255, 255, 0.8627452);
+}
+
+.cappuccino-graph__toolbar-container > .cappuccino-graph__zoom-label {
+     color: rgba(210, 210, 210, 0.5019608);
+     min-height: 26px;
+     height: 26px;
+     min-width: 80px;
+     max-width: 80px;
+     margin-left: 4px;
+     margin-top: 0.67px;
+     font-size: 14px;
+     -unity-font-style: bold;
+     -unity-text-align: middle-left;
+}
+

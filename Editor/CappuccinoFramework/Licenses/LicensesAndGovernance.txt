@@ -1,0 +1,8 @@
+The following licenses have been applied per the terms of the content referenced and used for them.
+For any indicated resources, please reference the following supplied licensor files.
+
+█ [The Code Project Open License (CPOL) 1.02]
+│
+└ <.../CappuccinoFramework/Core/Translators/BytesToMSImmediateLanguage/BytesToMSIL.cs>
+	Derivative portable modification of Sorin Serban's work(s) - 28 June 2007.
+	(Accessible At: https://www.codeproject.com/Articles/14058/Parsing-the-IL-of-a-Method-Body)

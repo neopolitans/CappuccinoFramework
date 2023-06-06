@@ -1,0 +1,45 @@
+.cappuccino-field__toggle-field > .unity-toggle__input {
+     border-top-color: rgba(138, 139, 138, 0.0627451);
+     border-right-color: rgba(138, 139, 138, 0.0627451);
+     border-bottom-color: rgba(138, 139, 138, 0.0627451);
+     border-left-color: rgba(138, 139, 138, 0.0627451);
+     border-top-width: 1px;
+     border-right-width: 1px;
+     border-bottom-width: 1px;
+     border-left-width: 1px;
+     border-top-right-radius: 2px;
+     border-top-left-radius: 2px;
+     border-bottom-right-radius: 2px;
+     border-bottom-left-radius: 2px;
+}
+
+.cappuccino-field__toggle-field > .unity-toggle__input:hover {
+     border-top-color: rgba(138, 139, 138, 0.2509804);
+     border-right-color: rgba(138, 139, 138, 0.2509804);
+     border-bottom-color: rgba(138, 139, 138, 0.2509804);
+     border-left-color: rgba(138, 139, 138, 0.2509804);
+     border-top-width: 1px;
+     border-right-width: 1px;
+     border-bottom-width: 1px;
+     border-left-width: 1px;
+     border-top-right-radius: 2px;
+     border-top-left-radius: 2px;
+     border-bottom-right-radius: 2px;
+     border-bottom-left-radius: 2px;
+}
+
+.cappuccino-field__toggle-field > .unity-toggle__input:hover:focus {
+     border-top-color: rgba(196, 198, 196, 0.7529413);
+     border-right-color: rgba(196, 198, 196, 0.7529413);
+     border-bottom-color: rgba(196, 198, 196, 0.7529413);
+     border-left-color: rgba(196, 198, 196, 0.7529413);
+     border-top-width: 1px;
+     border-right-width: 1px;
+     border-bottom-width: 1px;
+     border-left-width: 1px;
+     border-top-right-radius: 2px;
+     border-top-left-radius: 2px;
+     border-bottom-right-radius: 2px;
+     border-bottom-left-radius: 2px;
+}
+

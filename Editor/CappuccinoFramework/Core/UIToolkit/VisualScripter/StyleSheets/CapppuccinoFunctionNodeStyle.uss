@@ -1,0 +1,4 @@
+.cappuccino-function-node > #node-border {
+     background-color: rgba(152, 49, 52, 0.7529413);
+}
+

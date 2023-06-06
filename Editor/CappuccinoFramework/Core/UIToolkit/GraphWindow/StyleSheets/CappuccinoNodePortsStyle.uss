@@ -1,0 +1,45 @@
+#node-border > #contents > #top > #output, #node-border > #contents > #top > #input {
+     background-color: rgba(0, 0, 0, 0);
+}
+
+#node-border > #contents > #top > #divider {
+     border-bottom-color: rgba(0, 0, 0, 0);
+     border-top-color: rgba(0, 0, 0, 0);
+     border-left-color: rgba(0, 0, 0, 0);
+     border-right-color: rgba(0, 0, 0, 0);
+     border-top-width: 0px;
+     border-bottom-width: 0px;
+     border-left-width: 0px;
+     border-right-width: 0px;
+}
+
+#node-border > #contents > #top > #input > .cappuccino_execute_port > #connector, #node-border > #contents > #top > #output > .cappuccino_execute_port > #connector {
+     border-bottom-color: rgba(200, 200, 200, 1);
+     border-top-color: rgba(200, 200, 200, 1);
+     border-left-color: rgba(200, 200, 200, 1);
+     border-right-color: rgba(200, 200, 200, 1);
+     border-top-width: 1px;
+     border-bottom-width: 1px;
+     border-left-width: 1px;
+     border-right-width: 1px;
+     width: 12px;
+     height: 12px;
+     border-top-right-radius: 10px;
+     border-top-left-radius: 0px;
+     border-bottom-right-radius: 10px;
+     border-bottom-left-radius: 0px;
+}
+
+#node-border > #contents > #top > #input > .cappuccino_execute_port > #connector > #cap, #node-border > #contents > #top > #output > .cappuccino_execute_port > #connector > #cap {
+     border-bottom-color: rgba(200, 200, 200, 1);
+     border-top-color: rgba(200, 200, 200, 1);
+     border-left-color: rgba(200, 200, 200, 1);
+     border-right-color: rgba(200, 200, 200, 1);
+     width: 8px;
+     height: 8px;
+     border-top-right-radius: 4px;
+     border-top-left-radius: 0px;
+     border-bottom-right-radius: 4px;
+     border-bottom-left-radius: 0px;
+}
+

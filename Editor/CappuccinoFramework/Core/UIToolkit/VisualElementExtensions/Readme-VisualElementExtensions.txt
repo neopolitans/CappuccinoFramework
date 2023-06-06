@@ -1,0 +1,2 @@
+This folder contains several extension methods for VisualElement which simplify the creation process for registering to event callbacks.
+None of these methods are officially included by Unity Technologies and are designed explicitly to work with Cappuccino Editor Framework.

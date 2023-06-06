@@ -1,0 +1,86 @@
+.graphView > VisualElement > #contentViewContainer > Layer > .group {
+     background-color: rgba(255, 255, 255, 0);
+     border-color: rgba(30, 30, 30, 0.1254902);
+     border-bottom-left-radius: 0px;
+     border-bottom-right-radius: 0px;
+     border-top-left-radius: 0px;
+     border-top-right-radius: 0px;
+}
+
+.graphView > VisualElement > #contentViewContainer > Layer > .group:hover {
+     background-color: rgba(255, 255, 255, 0);
+     border-color: rgba(250, 182, 59, 0.3764706);
+     border-bottom-left-radius: 0px;
+     border-bottom-right-radius: 0px;
+     border-top-left-radius: 0px;
+     border-top-right-radius: 0px;
+}
+
+.graphView > VisualElement > #contentViewContainer > Layer > .group:checked {
+     background-color: rgba(255, 255, 255, 0);
+     border-color: rgba(250, 182, 59, 0.6588235);
+     border-bottom-left-radius: 0px;
+     border-bottom-right-radius: 0px;
+     border-top-left-radius: 0px;
+     border-top-right-radius: 0px;
+}
+
+.graphView > VisualElement > #contentViewContainer > Layer > .group:hover:checked {
+     background-color: rgba(255, 255, 255, 0);
+     border-color: rgba(250, 182, 59, 1);
+     border-bottom-left-radius: 0px;
+     border-bottom-right-radius: 0px;
+     border-top-left-radius: 0px;
+     border-top-right-radius: 0px;
+}
+
+.graphView > VisualElement > #contentViewContainer > Layer > .group > .mainContainer {
+     background-color: rgba(255, 255, 255, 0.2509804);
+     border-bottom-left-radius: 0px;
+     border-bottom-right-radius: 0px;
+     border-top-left-radius: 0px;
+     border-top-right-radius: 0px;
+}
+
+.graphView > VisualElement > #contentViewContainer > Layer > .group > .mainContainer > #headerContainer {
+     background-color: rgba(171, 171, 171, 0.7843138);
+     border-top-color: rgba(0, 0, 0, 0.3137255);
+     border-bottom-color: rgba(0, 0, 0, 0.3137255);
+     border-left-color: rgba(0, 0, 0, 0.3137255);
+     border-right-color: rgba(0, 0, 0, 0.3137255);
+     border-top-left-radius: 0px;
+     border-top-right-radius: 0px;
+     border-top-width: 2px;
+     border-bottom-width: 2px;
+     border-left-width: 2px;
+     border-right-width: 2px;
+     min-height: 32px;
+     min-width: 110px;
+}
+
+.graphView > VisualElement > #contentViewContainer > Layer > .group > .mainContainer > #centralContainer > #contentContainerPlaceholder {
+     padding-top: 5px;
+     padding-right: 5px;
+     padding-bottom: 5px;
+     padding-left: 5px;
+     border-bottom-left-radius: 0px;
+     border-bottom-right-radius: 0px;
+}
+
+.graphView > VisualElement > #contentViewContainer > Layer > .group > .mainContainer > #centralContainer > #contentContainerPlaceholder > #dropArea {
+     border-bottom-left-radius: 0px;
+     border-bottom-right-radius: 0px;
+}
+
+.graphView > VisualElement > #contentViewContainer > Layer > .group > .mainContainer > #headerContainer > #titleContainer > #titleLabel {
+     color: rgba(253, 253, 253, 0.5686275);
+     -unity-font-style: bold;
+     -unity-text-align: upper-left;
+     font-size: 20px;
+}
+
+.graphView > VisualElement > #contentViewContainer > Layer > .group > .mainContainer > #headerContainer > #titleContainer > #titleField > #unity-text-input:focus {
+     background-color: rgba(42, 42, 42, 0.3137255);
+     -unity-font-style: bold;
+}
+

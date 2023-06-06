@@ -1,0 +1,93 @@
+.cappuccino-node__main-container {
+     background-color: rgba(200, 200, 200, 0.3607843);
+     min-width: 192px;
+}
+
+.node > #selection-border {
+     border-bottom-color: rgba(0, 0, 0, 0);
+     border-top-color: rgba(0, 0, 0, 0);
+     border-left-color: rgba(0, 0, 0, 0);
+     border-right-color: rgba(0, 0, 0, 0);
+     border-top-width: 1px;
+     border-bottom-width: 1px;
+     border-left-width: 1px;
+     border-right-width: 1px;
+}
+
+.node:hover > #selection-border {
+     border-color: rgba(250, 182, 59, 0.3764706);
+     border-top-width: 1px;
+     border-bottom-width: 1px;
+     border-left-width: 1px;
+     border-right-width: 1px;
+}
+
+.node:checked > #selection-border {
+     border-bottom-color: rgba(250, 182, 59, 0.6588235);
+     border-top-color: rgba(250, 182, 59, 0.6588235);
+     border-left-color: rgba(250, 182, 59, 0.6588235);
+     border-right-color: rgba(250, 182, 59, 0.6588235);
+     border-top-width: 2px;
+     border-bottom-width: 2px;
+     border-left-width: 2px;
+     border-right-width: 2px;
+}
+
+.node:hover:checked > #selection-border {
+     border-color: rgba(250, 182, 59, 1);
+     border-top-width: 2px;
+     border-bottom-width: 2px;
+     border-left-width: 2px;
+     border-right-width: 2px;
+}
+
+.cappuccino-node__main-container > #contents > #divider {
+     background-color: rgba(0, 0, 0, 0);
+     border-bottom-color: rgba(0, 0, 0, 0);
+     border-top-color: rgba(0, 0, 0, 0);
+     border-left-color: rgba(0, 0, 0, 0);
+     border-right-color: rgba(0, 0, 0, 0);
+}
+
+.node > #node-border > #title > #title-label {
+     height: 5px;
+     max-height: 5px;
+}
+
+.cappuccino-node__title-button-container {
+     background-color: rgba(0, 0, 0, 0);
+     height: 20px;
+}
+
+.node > #node-border > #title {
+     background-color: rgba(0, 0, 0, 0);
+     padding-left: 3px;
+     height: 20px;
+     margin-left: 0px;
+     margin-top: 0px;
+     margin-bottom: 0px;
+}
+
+.cappuccino-node__title-label {
+     -unity-font-style: bold;
+     -unity-text-align: middle-left;
+     padding-left: 6px;
+     height: 20px;
+}
+
+.cappuccino-node__top-container {
+     background-color: rgba(30, 30, 30, 1);
+}
+
+.cappuccino-node__extension-container {
+     background-color: rgba(30, 30, 30, 1);
+}
+
+.node > #node-border > #contents > #collapsible-area > #divider {
+     border-top-width: 0px;
+     border-bottom-width: 0px;
+     border-left-width: 0px;
+     border-right-width: 0px;
+     height: 0px;
+}
+

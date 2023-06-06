@@ -1,0 +1,4 @@
+.cappuccino-imgui-toggle-node > #node-border {
+     background-color: rgba(60, 150, 255, 0.5019608);
+}
+

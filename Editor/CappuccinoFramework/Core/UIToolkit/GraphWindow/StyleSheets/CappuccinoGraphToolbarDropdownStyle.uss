@@ -1,0 +1,78 @@
+.cappuccino-graph__toolbar-dropdown {
+     min-width: 30px;
+     width: 140px;
+     max-width: 240px;
+     min-height: 30px;
+     max-height: 512px;
+     background-color: rgba(0, 0, 0, 0.5490196);
+     border-bottom-color: rgba(52, 52, 52, 0.7529413);
+     border-left-color: rgba(52, 52, 52, 0.7529413);
+     border-top-color: rgba(52, 52, 52, 0.7529413);
+     border-right-color: rgba(52, 52, 52, 0.7529413);
+     border-bottom-width: 1px;
+     border-left-width: 1px;
+     border-top-width: 1px;
+     border-right-width: 1px;
+     border-bottom-left-radius: 5px;
+     border-top-left-radius: 5px;
+     border-bottom-right-radius: 5px;
+     border-top-right-radius: 5px;
+     margin-top: 36px;
+     margin-left: 4px;
+     margin-right: 4px;
+     flex-direction: column;
+}
+
+.cappuccino-graph__toolbar-dropdown__divider {
+     background-color: rgba(255, 255, 255, 0.1254902);
+     min-width: 30px;
+     max-width: 240px;
+     height: 0.67px;
+     margin-left: 4px;
+     margin-right: 4px;
+     position: relative;
+}
+
+.cappuccino-graph__toolbar-dropdown__button {
+     background-color: rgba(255, 255, 255, 0);
+     border-bottom-color: rgba(0, 0, 0, 0);
+     border-top-color: rgba(0, 0, 0, 0);
+     border-left-color: rgba(0, 0, 0, 0);
+     border-right-color: rgba(0, 0, 0, 0);
+     border-bottom-left-radius: 3px;
+     border-top-left-radius: 3px;
+     border-bottom-right-radius: 3px;
+     border-top-right-radius: 3px;
+     padding-left: 2px;
+     padding-right: 2px;
+     margin-left: 2px;
+     margin-right: 2px;
+     margin-top: 2px;
+     margin-bottom: 2px;
+     color: rgba(255, 255, 255, 0.2509804);
+     -unity-font-style: bold;
+     -unity-text-align: middle-left;
+}
+
+.cappuccino-graph__toolbar-dropdown__button:hover {
+     background-color: rgba(255, 255, 255, 0.03921569);
+     border-bottom-color: rgba(0, 0, 0, 0);
+     border-top-color: rgba(0, 0, 0, 0);
+     border-left-color: rgba(0, 0, 0, 0);
+     border-right-color: rgba(0, 0, 0, 0);
+     color: rgba(255, 255, 255, 0.5019608);
+     -unity-font-style: bold;
+     -unity-text-align: middle-left;
+}
+
+.cappuccino-graph__toolbar-dropdown__button:hover:active {
+     background-color: rgba(255, 255, 255, 0.1176471);
+     border-bottom-color: rgba(0, 0, 0, 0);
+     border-top-color: rgba(0, 0, 0, 0);
+     border-left-color: rgba(0, 0, 0, 0);
+     border-right-color: rgba(0, 0, 0, 0);
+     color: rgba(255, 255, 255, 0.8627452);
+     -unity-font-style: bold;
+     -unity-text-align: middle-left;
+}
+
