@@ -27,11 +27,14 @@ With the rising trends of game development and more people actively adopting too
 #### UI Toolkit
 Unity Technologies' most recent suite of tools for various applications, UI Toolkit, is a prominent and newly introduced way to construct  intuitive and user-friendly UI through the use of web-development languages alongside C# *or* through their visual UI Builder. Cappuccino aims to provide additional behaviours that make incorporating or rebuilding in UI-Toolkit more accessible for developers and programmers used to the Immediate Mode GUI workflow.
 
+#### Cappuccino GitHub Wiki
+This framework is full of many bell, whistles and quality-of-life features for developers. Almost everything in Cappuccino has written documentation to work with Visual Studio IntelliSense (and compatible IDEs) in XML for C# with fairly clear descriptions. All existing information needs to be incorporated into dedicated Wiki pages for the repository so that developers and programmers can easily access and understand all the included features.
+
+## In-Research
 #### C++ Integration
 C# is a higher level language with performance costs that are less desireable compared to C++ integration. One of the biggest pieces of feedback received so far has been to incorporate C++ for improving and optimizing Cappuccino Framework for a variety of systems. The cost of this is that any custom libraries created for the framework must be compiled in both x86 and x64 architectures separately, costing more research and development.
 
-#### Cappuccino GitHub Wiki
-This framework is full of many bell, whistles and quality-of-life features for developers. Almost everything in Cappuccino has written documentation to work with Visual Studio IntelliSense (and compatible IDEs) in XML for C# with fairly clear descriptions. All existing information needs to be incorporated into dedicated Wiki pages for the repository so that developers and programmers can easily access and understand all the included features.
+Challenges currently exist with this framework. Using C++ in a way that interacts with Unity Engine without sacrificing performance due to the cross-language boundary requires further research before it can be decisively put back into the development pool.
 
 ## Engine Support
 
