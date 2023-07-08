@@ -3,6 +3,9 @@ Cappuccino Framework is an in-development Engine Utility for Unity that abstract
 
 This framework is designed to allow for developers and programmers to take what they need, personalizing their flavour of Cappuccino to their needs.
 
+Everything here is being moved over to the wiki. This page will be replaced with Installation Instructions.  
+Direct Link: **[Cappuccino Framework Wiki](https://github.com/neopolitans/CappuccinoFramework/wiki)**
+
 ## Current Features
 
 #### Immediate-Mode GUI Support
